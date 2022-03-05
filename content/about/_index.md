@@ -1,21 +1,30 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "2022-03-05T21:05:33+05:30"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+## Early  
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+Born in whittier CA.  
+Raised in Cardiff by the Sea.  
 
-![This is me][1]
+## Education  
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Proud graduate of san dieguito academy.  
+UCSD Cognitive Science Alumni.  
+Applied Math Minor.  
 
-#### Education
+## Career  
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Project Management in custom software design.  
+Consulting in technology solutions.  
+Data Analyst for education based marketing.  
+Data Science for social media advertisement.  
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+## Now  
 
-[1]: /img/about.jpg
+I have had a hard time being myself lately. It has been a challenge to even understand a lot of who I am, what I am doing, or what I have been going through.  
+
+I do feel a strong affinity for purpose - a desire to take part in something greater than myself.  
+I have a desire to help others, teach, and to help prepare the problems of today for the problem solvers of tomorrow.  
+I am facinated with the representation of knowledge and information. For instance: how could one properly describe a theory of mind in a brief pamphlet that anyone with a high school education could understand. I also love data visualization and data story telling.  
